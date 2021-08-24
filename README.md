@@ -4,7 +4,7 @@ This repository contains all the code developed as part of the MRes research pro
 
 > The final document will be uploaded after receiving the marks and feedback
 
-# ADD TITLE OF THE DISSERTATION
+# A comparative analysis of extreme precipitation characteristics in the UK using gauge (HadUK-Grid), satellite (IMERG) and reanalysis (ERA5) precipitation products
 
 ## Motivation, Aim and Objectives
 
